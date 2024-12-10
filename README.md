@@ -1,7 +1,7 @@
 # AugmentedRealityProject
 Custom project to track parts in module and display errors detail on mobile screen application.
 
-The PointerController.cs is the main class where a module is tracked with Augmented reality using Vuforia, show diagrams, detect specific parts on it, shows circuits and more.
+The PointerController.cs is the main class where a module is tracked with Augmented reality using Vuforia plugin, to display diagrams on the screen, detect each component for the module as well as show circuits.
 
 Some files are hidden for legal property. 
 
